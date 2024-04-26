@@ -1,0 +1,19 @@
+
+Yearly Report
+
+  Month/Items   laptop   pc    tablet   total  
+ ------------- -------- ----- -------- ------- 
+  January           33    13       96     142  
+  February          30    15       40      85  
+  March             44    27       76     147  
+  April             65    22       80     167  
+  May                5    32       89     126  
+  June              91    29       20     140  
+  July              94    35       56     185  
+  August            26    30       77     133  
+  September         39    25       65     129  
+  October           79     8       47     134  
+  November          17    14       85     116  
+  December          50    28       29     107  
+ ------------- -------- ----- -------- ------- 
+  Total            573   278      760    1611  
