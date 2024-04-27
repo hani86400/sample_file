@@ -107,6 +107,7 @@ sed '/Apr\|May\|June/!d' sample.txt
 sed -E '/Apr|May|June/!d' sample.txt
 
 # using awk
+awk '/Apr|May|June/' sample.txt
 ```
 
 #### Get Q2 (mix pattern and lines around the pattern
